@@ -1,0 +1,5 @@
+https://api.themoviedb.org/3/movie/550?api_key=f1aca93e54807386df3f6972a5c33b50&language=en-US
+https://api.themoviedb.org/3/movie/popular?api_key=f1aca93e54807386df3f6972a5c33b50&language=en-US&page=1
+https://api.themoviedb.org/3/search/movie?api_key=f1aca93e54807386df3f6972a5c33b50&language=en-US
+https://api.themoviedb.org/3/search/movie?api_key=f1aca93e54807386df3f6972a5c33b50&language=en-US&query=Barbie
+https://api.themoviedb.org/3/movie/447365?api_key=f1aca93e54807386df3f6972a5c33b50&language=en-US
